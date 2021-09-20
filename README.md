@@ -3,7 +3,8 @@
 The objective for this project was to gather earthquake data from USGS API, create maps with 3 different layers as well as  different map types. The map presents earthquakes locations and size, earthquakes greater than 4.5, as well as tectonic plates. 
 
 #Resources
-Data sources used: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson,
+Data sources used:
+https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson,
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson,
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
